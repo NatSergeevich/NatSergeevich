@@ -4,7 +4,7 @@
 ### :woman_technologist: About Me :
 I am a Beginner Data Analyst from Russia.
 
-:seedling: Exploring A/B tests.
+:seedling: Exploring A/B tests & learning ML.
 
 📫 How to reach me: 
 <div id="badges"> <a href="https://t.me/nat_sergeevi4"> <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
