@@ -8,7 +8,7 @@ I am a Beginner Data Analyst from Russia.
 
 📫 How to reach me: <a href="https://t.me/nat_sergeevi4"> <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/> 
 
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:sergeevich.nat@gmail.com)  
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:sergeevich.nat@gmail.com) sergeevich.nat@gmail.com
   </a>
 </div>
 
