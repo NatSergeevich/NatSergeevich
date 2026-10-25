@@ -2,7 +2,6 @@
 
 
 ### :woman_technologist: About Me :
-I am a Beginner Data Analyst from Russia.
 
 :seedling: Exploring A/B tests & learning ML.
 
